@@ -1,0 +1,7 @@
+LIBRARY	"LibTorrentAdapter"
+
+EXPORTS Initialize = ?Initialize@@YGHPBDG@Z
+        UnInitialize = ?UnInitialize@@YGXXZ
+        AddTorrent = ?AddTorrent@@YGHPBD0@Z
+        Pause = ?Pause@@YGHXZ
+        Resume = ?Resume@@YGHXZ
